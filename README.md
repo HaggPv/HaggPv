@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Pavel Balinov aka @HaggPv
+- 👀 I’m interested inMarketing and Data Analysis 
+- 🌱 I’m currently taking a Data Analysis course at Yandex.Practicum
