@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Pavel Haggai  Balin aka @HaggPv
-- 👀 I’m interested inMarketing and Data Analysis 
+- 👀 I’m interested in Marketing and Data Analysis 
 - 🌱 I’m currently taking a Data Analysis course at Yandex.Practicum
